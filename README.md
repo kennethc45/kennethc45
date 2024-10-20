@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I've been enjoying web development ever since I transitioned from pre-med to computer science during college. As someone who came from a track of memorizing an egregious amount of theory with little application, I've come to realize that I'm a hands on person. Not only do I learn best from applying what I've studied in practical settings, but that is also when I have the most fun! That is what attracted me to computer science. The opportunity to accomplish a task through the experimentation of different paths.
+
+
 
