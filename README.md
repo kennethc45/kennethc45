@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-🎓 Education <br>
+📚 Education <br>
 ➡ M.Sc. Computer Science (Machine Learning Specialization), Rice University (2024 - Present) <br>
 ➡️ B.Sc. Computer Science, Trinity University (2024) <br>
 
