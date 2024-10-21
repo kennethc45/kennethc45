@@ -1,6 +1,10 @@
-## Hi there, I'm Kenneth 👋
-
+<!-- 
+## Hi there, I'm Kenneth 👋 
 **`Aspiring Full-Stack Developer/DevOps`**
+-->
+
+<h1 align="center" > Hi there, I'm Kenneth 👋 </h1>
+<h3 align="center"> Aspiring Full-Stack Developer/DevOps </h3>
 
 <!--
 **kennethc45/kennethc45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
