@@ -1,16 +1,18 @@
 <!-- 
 ## Hi there, I'm Kenneth 👋 
-**`Aspiring Full-Stack Developer/DevOps`**
+**`Aspiring Cybersecurity Professional/Software Engineer`**
 -->
 
 <h1 align="center" > Hi there, I'm Kenneth 👋 </h1>
-<h3 align="center"> Aspiring Full-Stack Developer/DevOps </h3>
+<h3 align="center"> Aspiring Cybersecurity Professional </h3>
 
 <!--
 **kennethc45/kennethc45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-&nbsp;&nbsp;&nbsp;&nbsp;I've been enjoying web development ever since I transitioned from pre-med to computer science during college. As someone who came from a track of memorizing an egregious amount of theory with little application, I've come to realize that I'm a hands on person. Not only do I learn best from applying what I've studied in practical settings, but that it is also when I have the most fun! That is what attracted me to computer science. The opportunity to accomplish a task through the experimentation of different methods. <br> &nbsp;&nbsp;&nbsp;&nbsp;Although I'm still early in my journey at Rice, I'm actively seeking for full-time positions in Full-Stack development or Dev-Ops. While I'm eager to continue my education, I also want to be able to apply my skills in industry to gain practical experience. Through my time working on my senior capstone with HEB, a local Texas grocery chain, I've come to enjoy learning the entire process of developing software. From creating the front-end and back-end to deploying on the cloud through the pipeline. I want to be versatile and be able to make an impact during any part, any stage. If you're hiring, let's chat on LinkedIn!
+&nbsp;&nbsp;&nbsp;&nbsp;I discovered my passion for computer science after transitioning from the pre-med track during undergrad. Coming from a background that emphasized memorization over applicatoin, I realize I'm most engaged when I can learn by doing. Computer science gave me that opportunity -- the ability to solve real-world problems through creativity, experimentation, and hands-on problem-solving.
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Now, as a Master of Computer Science Student at Rice University, I'm focusing on cybersecurity to make a meaningful impact on people's digital safety and well-being. As a Student Security Operation Center (SOC) Analayst, I've gained practical experience monitoring threats and responding to incidents, and I'm eager to keep expanding my skill set to prepare for a professional role in the cybersecurity industry.
+<br> &nbsp;&nbsp;&nbsp;&nbsp; If you're hiring or passionate about cybersecurity, let's connect on LinkedIn!
 
 <a href="https://www.linkedin.com/in/kenneth-cadungog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
