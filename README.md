@@ -1,18 +1,17 @@
-<!-- 
-## Hi there, I'm Kenneth 👋 
-**`Aspiring Cybersecurity Professional/Software Engineer`**
--->
-
 <h1 align="center" > Hi there, I'm Kenneth 👋 </h1>
-<h3 align="center"> Aspiring Cybersecurity Professional </h3>
+<h3 align="center"> MS Computer Science Student @ Rice University | Student SOC Analyst </h3>
 
 <!--
 **kennethc45/kennethc45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!--
 &nbsp;&nbsp;&nbsp;&nbsp;I discovered my passion for computer science after transitioning from the pre-med track during undergrad. Coming from a background that emphasized memorization over applicatoin, I realize I'm most engaged when I can learn by doing. Computer science gave me that opportunity -- the ability to solve real-world problems through creativity, experimentation, and hands-on problem-solving.
 <br> &nbsp;&nbsp;&nbsp;&nbsp; Now, as a Master of Computer Science Student at Rice University, I'm focusing on cybersecurity to make a meaningful impact on people's digital safety and well-being. As a Student Security Operation Center (SOC) Analayst, I've gained practical experience monitoring threats and responding to incidents, and I'm eager to keep expanding my skill set to prepare for a professional role in the cybersecurity industry.
 <br> &nbsp;&nbsp;&nbsp;&nbsp; If you're hiring or passionate about cybersecurity, let's connect on LinkedIn!
+-->
+
+&nbsp;&nbsp;&nbsp;&nbsp; I work with the Rice Information Secuerity Office to monitor security alerts, investigate potential threats, and support incident response while building hands on experience log analysis, threat detection, vulnerability management, and data compliance
 
 <a href="https://www.linkedin.com/in/kenneth-cadungog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
