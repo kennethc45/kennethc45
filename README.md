@@ -1,54 +1,66 @@
 <h1 align="center" > Hi there, I'm Kenneth 👋 </h1>
 <h3 align="center"> MS Computer Science Student @ Rice University | Student SOC Analyst </h3>
 
-<!--
-**kennethc45/kennethc45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;I discovered my passion for computer science after transitioning from the pre-med track during undergrad. Coming from a background that emphasized memorization over applicatoin, I realize I'm most engaged when I can learn by doing. Computer science gave me that opportunity -- the ability to solve real-world problems through creativity, experimentation, and hands-on problem-solving.
-<br> &nbsp;&nbsp;&nbsp;&nbsp; Now, as a Master of Computer Science Student at Rice University, I'm focusing on cybersecurity to make a meaningful impact on people's digital safety and well-being. As a Student Security Operation Center (SOC) Analayst, I've gained practical experience monitoring threats and responding to incidents, and I'm eager to keep expanding my skill set to prepare for a professional role in the cybersecurity industry.
-<br> &nbsp;&nbsp;&nbsp;&nbsp; If you're hiring or passionate about cybersecurity, let's connect on LinkedIn!
--->
-
 <!-- Who am I -->
-&nbsp;&nbsp;&nbsp;&nbsp; I work with the Rice Information Secuerity Office to monitor security alerts, investigate potential threats, and support incident response while building hands on experience with tools such as Google SecOps, Microsoft Defender, and Netskope DLP.
+&nbsp;&nbsp;&nbsp;&nbsp; I work with the Rice Information Secuerity Office to monitor and triage security alerts, investigate potential threats, and support incident response while gaining hands on experience with tools such as Google SecOps, Microsoft Defender, and Netskope DLP.
 
-<!-- What am I working on-->
-<br> &nbsp;&nbsp;&nbsp;&nbsp; Outside of my job, I work on cybersecurity home labs to deepen my technical skills and practical knowledge. Currently, I am working on a SOC Endpoint Detection & Response lab with Wazuh and multiple virtual machines.
+<!-- What am I working on -->
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Outside of my job, I build cybersecurity home labs to deepen my technical and practical skills. I'm currently developing a SOC Endpoint Detection & Response lab using Wazuh and multiple virtual machines.
 
 <!-- What tools do I use -->
+<h1 align="center" > 🧰 Tools </h1>
+I regularly work with the following tools and technologies in my SOC role and personal projects:
+
+### Security Operations
+<div>
+    <img src="https://img.shields.io/badge/-Google_SecOps-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0E7C7B?style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netskope-FF0066?style=for-the-badge&logo=netskope&logoColor=white" />
+</div>
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1BA1E2?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557CFF?style=for-the-badge&logo=kali-linux&logoColor=white" />
+</div>
+
+### Programming & Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</div>
+
+### Cloud & Containers
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+### OS
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
+
+### DevOps & Version Control
+<div>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CI%2FCD-007ACC?style=for-the-badge&logo=azure-pipelines&logoColor=white" />
+</div>
+
+### Database
+<div>
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
 
 <!-- How to reach me -->
-<br> &nbsp;&nbsp;&nbsp;&nbsp; If you wish to contact me and learn more about my experience, let's connect on LinkedIn through the linked symbol down below!
-
+<h1 align="center" > Let's connect and chat on LinkedIn! </h1>
+<p align="center">
 <a href="https://www.linkedin.com/in/kenneth-cadungog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+</p>
 
----
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br /><br />
-
----
-
-### 📚 Education 
-- 🦉 M.Sc. Computer Science (Machine Learning Specialization), Rice University (2024 - Present) 
-- 🐅 B.Sc. Computer Science, Trinity University (2024)
-
+<!--
 ---
 
 ### ⚽️ Hobbies 
@@ -56,13 +68,4 @@
 - 🇹🇭 Muay Thai  
 - 🥋 BJJ
 - 🤼 Wrestling
-
-<!--
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 -->
-
-
-
-
-
-
