@@ -11,7 +11,16 @@
 <br> &nbsp;&nbsp;&nbsp;&nbsp; If you're hiring or passionate about cybersecurity, let's connect on LinkedIn!
 -->
 
-&nbsp;&nbsp;&nbsp;&nbsp; I work with the Rice Information Secuerity Office to monitor security alerts, investigate potential threats, and support incident response while building hands on experience log analysis, threat detection, vulnerability management, and data compliance
+<!-- Who am I -->
+&nbsp;&nbsp;&nbsp;&nbsp; I work with the Rice Information Secuerity Office to monitor security alerts, investigate potential threats, and support incident response while building hands on experience with tools such as Google SecOps, Microsoft Defender, and Netskope DLP.
+
+<!-- What am I working on-->
+<br> &nbsp;&nbsp;&nbsp;&nbsp; Outside of my job, I work on cybersecurity home labs to deepen my technical skills and practical knowledge. Currently, I am working on a SOC Endpoint Detection & Response lab with Wazuh and multiple virtual machines.
+
+<!-- What tools do I use -->
+
+<!-- How to reach me -->
+<br> &nbsp;&nbsp;&nbsp;&nbsp; If you wish to contact me and learn more about my experience, let's connect on LinkedIn through the linked symbol down below!
 
 <a href="https://www.linkedin.com/in/kenneth-cadungog/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
