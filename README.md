@@ -1,5 +1,5 @@
 <h1 align="center" > Hi there, I'm Kenneth 👋 </h1>
-<h3 align="center"> MS Computer Science Student @ Rice University | Student SOC Analyst </h3>
+<h3 align="center"> Student SOC Analyst | Master's Student in Computer Science </h3>
 
 <!-- Who am I -->
 &nbsp;&nbsp;&nbsp;&nbsp; I work with the Rice Information Secuerity Office to monitor and triage security alerts, investigate potential threats, and support incident response while gaining hands on experience with tools such as Google SecOps, Microsoft Defender, and Netskope DLP.
@@ -8,8 +8,12 @@
 <br> &nbsp;&nbsp;&nbsp;&nbsp; Outside of my job, I build cybersecurity home labs to deepen my technical and practical skills. I'm currently developing a SOC Endpoint Detection & Response lab using Wazuh and multiple virtual machines.
 
 <!-- What tools do I use -->
-<h1 align="center" > 🧰 Tools </h1>
+<br> &nbsp;&nbsp;&nbsp;&nbsp; I regularly work with the following tools and technologies in my SOC role and personal projects:
+<details>
+<summary>🧰 Tools</summary>
+<!--<h1 align="center" > 🧰 Tools </h1>
 I regularly work with the following tools and technologies in my SOC role and personal projects:
+-->
 
 ### Security Operations
 <div>
@@ -53,6 +57,7 @@ I regularly work with the following tools and technologies in my SOC role and pe
 <div>
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
+</details>
 
 <!-- How to reach me -->
 <h1 align="center" > Let's connect and chat on LinkedIn! </h1>
